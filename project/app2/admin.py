@@ -3,3 +3,6 @@ from  .models import vhicle,coustmer
 # Register your models here.
 admin.site.register(vhicle)
 admin.site.register(coustmer)
+
+
+#ayushi singh
